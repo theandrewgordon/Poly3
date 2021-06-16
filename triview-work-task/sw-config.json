@@ -1,0 +1,26 @@
+{ 
+    "appFiles": [ 
+        "../@webcomponents/webcomponentsjs/webcomponents-loader.js", 
+        "../jstimezonedetect/dist/jstz.min.js", 
+        "../moment-jdateformatparser/moment-jdateformatparser.min.js", 
+        "../moment-timezone/builds/moment-timezone-with-data-2012-2022.js", 
+        "../moment/min/locales.min.js", 
+        "../moment/moment.js", 
+        "../number-formatter/lib/format.js", 
+        "../triplat-offline-manager/triplat-offline-download-queue.js", 
+        "../triplat-theme/HelveticaNeue/helvetica-neue-bold.woff2", 
+        "../triplat-theme/HelveticaNeue/helvetica-neue-light.woff2", 
+        "../triplat-theme/HelveticaNeue/helvetica-neue-medium.woff", 
+        "../triplat-theme/HelveticaNeue/helvetica-neue-medium.woff2", 
+        "../triplat-theme/HelveticaNeue/helvetica-neue-roman.woff2", 
+        "../triview-work-task/ready-disabled.svg", 
+        "../triview-work-task/ready.svg", 
+        "../triview-work-task/triview-work-task.js", 
+        "../web-animations-js/web-animations-next-lite.min.js" 
+    ], 
+     
+    "externalFiles": [ 
+        "https://fonts.googleapis.com/css?family=Roboto+Mono:400,700|Roboto:400,300,300italic,400italic,500,500italic,700,700italic", 
+        "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2" 
+    ] 
+} 
